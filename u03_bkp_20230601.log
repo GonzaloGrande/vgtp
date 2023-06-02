@@ -1,0 +1,9 @@
+22:01:08 - Inicia el proceso de backup.
+22:01:08 - ARCHIVO DESTINO: /root/vgtp/u03_bkp_20230601.tar.gz.
+22:01:08 - Archivo Log: /root/vgtp/u03_bkp_20230601.log.
+22:01:08 - Comprimiendo archivo: 
+/u03/
+/u03/etc_bkp_20230528.tar.gz
+/u03/etc_bkp_20230528.log
+/u03/lost+found/
+22:01:08 - Proceso finalizado 

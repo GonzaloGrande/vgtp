@@ -1,0 +1,11 @@
+22:00:58 - Inicia el proceso de backup.
+22:00:58 - ARCHIVO DESTINO: /root/vgtp/u01_bkp_20230601.tar.gz.
+22:00:58 - Archivo Log: /root/vgtp/u01_bkp_20230601.log.
+22:00:58 - Comprimiendo archivo: 
+/u01/
+/u01/lost+found/
+/u01/html/
+/u01/html/index.php
+/u01/html/index.html
+/u01/html/hola.php
+22:00:58 - Proceso finalizado 

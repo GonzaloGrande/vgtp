@@ -1,0 +1,15 @@
+22:00:43 - Inicia el proceso de backup.
+22:00:43 - ARCHIVO DESTINO: /root/vgtp/opt_bkp_20230601.tar.gz.
+22:00:43 - Archivo Log: /root/vgtp/opt_bkp_20230601.log.
+22:00:43 - Comprimiendo archivo: 
+/opt/
+/opt/tp/
+/opt/tp/firewall/
+/opt/tp/firewall/firewall.conf
+/opt/tp/scripts/
+/opt/tp/scripts/backup_full.sh
+/opt/tp/scripts/monitor.sh
+/opt/tp/scripts/feriados.txt
+/opt/tp/scripts/testEsLaborable.sh
+/opt/tp/scripts/esLaborable.sh
+22:00:43 - Proceso finalizado 
